@@ -34,7 +34,7 @@ Additional work demonstrating versatility in Computer Science (CS) foundations a
 
 ## 📬 Contact & Info
 
-* **LinkedIn:** [Ivan Miguel Viola](linkedin.com/in/ivanmiguelviola/)
+* **LinkedIn:** [Ivan Miguel Viola](https://www.linkedin.com/in/ivanmiguelviola/)
 * **Location:** Buenos Aires, Argentina (EU Citizen)
 
 *This portfolio is maintained by Ivan Miguel Viola.*
