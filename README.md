@@ -17,7 +17,7 @@ Here is an overview of the main projects in this portfolio. Click on the **Proje
 
 | Project | Domain | Tech Stack | Key Focus |
 | :--- | :--- | :--- | :--- |
-| [**Player Analysis & Recommendation**](https://github.com/IvanMV01/Data-Science-Portfolio/tree/main/Player%20Analysis%20%26%20Recommendation) | Data Science | Python, Scikit-learn, TensorFlow | **Clustering (K-Means) & Classification** to segment players and predict positions/market value. |
+| [**Player Analysis & Recommendation**](https://github.com/IvanMV01/Data-Science-Portfolio/tree/main/Player%20Analysis%20%26%20Recommendation) | Data Science | Python, Scikit-learn | **Clustering (K-Means) & Classification** to segment players and predict positions/market value. |
 | [**Public Transit Analysis**](https://github.com/IvanMV01/Data-Science-Portfolio/tree/main/Public%20Transit%20Analysis) | Data Science | Python, Pandas, Seaborn | **Time-series analysis** and **Ridge Regression** to predict daily bus ridership patterns. |
 | [**Algorithmic Blockchain Sim**](https://github.com/IvanMV01/Data-Science-Portfolio/tree/main/Algorithmic%20Blockchain%20Sim) | Software Eng. | Java, Custom Structures | A blockchain simulation built from scratch optimizing for $O(1)$ and $O(\log n)$ time complexity. |
 
